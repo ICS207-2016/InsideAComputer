@@ -1,0 +1,45 @@
+html
+{
+	background-color:#d6f3fc;
+}
+
+h1
+{
+	text-align:center;
+	font-family: broadway, droid serif, serif;
+}
+
+body
+{
+	font-family: georgia, times new roman, serif;
+}	
+
+.mainimg
+{
+	margin-left:25%;
+}
+
+.caption
+{
+	margin-left:5%;
+}
+
+.list1
+{
+	font-size: 12px;
+}
+
+.list2
+{
+	margin-left:50%;
+	font-size: 12px;
+}
+
+.list2head
+{
+	margin-top:-27%;
+}
+
+
+
+
